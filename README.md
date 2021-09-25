@@ -1,1 +1,43 @@
 # ieees
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Raksha Bandhan</title>
+	<style>
+	body
+	{
+	background-image:url("https://www.nicepng.com/png/full/776-7766234_download-happy-raksha-bandhan-background.png");
+	}
+	</style>
+</head>
+<script>  alert("Welcome to this Web page "); </script>
+<body> <center> <h1>Raksha Bandhan</h1> </center>
+
+<p align="center"> <font size="4" >Fairs and festivals hold a special value in our life. They hold a lot of significance in our lives. We can never miss our festivals. Festivals portray our religion and culture. They remind us of our splendid past. The festival of Raksha Bandhan is the festival of love and brotherhood. Sisters tie sacred threads to the wrist of their brothers, thereby reminding them of their great responsibility. All over India, sisters whether they are married or unmarried, young or old visit their brothers and tie a piece of decorative thread and in return brothers make a vow to protect their sisters from all evil. 
+
+</br></br>
+
+The word ‘Raksha Bandhan’ has a very significant meaning. Raksha means protection and Bandhan means bond. It is the celebration of a chaste bond of love and protection between a brother and sister. This festival symbolizes love and harmony. This occasion comes in August. As per the Hindu calendar, it is celebrated on a full moon day. Typically, this festival is celebrated by people hailing from the northern and western part of India. This occasion is also called by different names in different parts of the country. Some people call this festival ‘Rakhi Purnima’, some call it ‘Kajri Purnima’.  In many states, this festival is considered as an important day for farmers and women who have sons. On this occasion, people worship Lord Shiva. As per the tradition, the sisters prepare a thali or a plate with diya, roli, rice and rakhis. First, she offers prayers to God and then ties Rakhi to the brothers and wishes for their well-being. The brother in turn acknowledges the love with a promise to be by the sisters’ side always and gives her a gift as a token of love. </font>
+</p>
+<font size="6">History</font> </br>
+<p align="center"> 
+<font size="4" >
+According to the Indian traditions, this thread was not only tied around the wrists of brothers by their sisters but also in ancient times the contemporary priests tied this guarding thread to the wrists of their kings. As per the Hindu mythology, Lord Indra’s wife, Sachi tied a bracelet to Indra to protect him from the evil king Bali. So in the western states of India, the wives conduct this ceremony with their husbands. There are many historical pieces of evidence, which remind us about the significance of this festival and every time this festival emphasizes the same values, which have been mingled along with the festival. There is also an age-old story behind this occasion. It is said that Rani Karnavati of Mewar sent Rakhi to the Mughal Emperor Humayun beseeching him for help from Sultan Bahadur Shah. Humayun acceded to the request and he helped her out of the crisis. A Greek lady also did the same to Porus. The last Mughal emperor Bahadur Shah Zafar ordered that Raksha Bandhan should be celebrated with pomp and show. During the British rule, this festival was celebrated to promote friendship and unity among all communities. Rabindranath Tagore also sought the medium of Rakhi to stop the partition of Bengal. 
+</font></p>
+<font size="6">Celebration</font> </br>
+<p align="center"> 
+<font size="4" >
+The happiness and enthusiasm to celebrate this festival is seen several days before the festival. The markets are full of beautiful coloured Rakhis. These days, it has become a soaring business. Many shopkeepers’ sole business is buying and selling Rakhis. The markets are decked like a bride, all colourful and glory. There are varieties of rakhis available in the market ranging from low to high. The sisters buy rakhis and tie them around the wrists of their brothers along with roli and rice on their foreheads. They wish for the prosperity and long life of their brothers and in return, brothers take a vow to protect their sisters and assure them, guard, during any crisis. For all families, the Raksha Bandhan festival is a means of family union. Tasty food, sweets, etc. are cooked on this auspicious day. Family members also exchange gifts with other good wishers and relatives and share their individual experiences of life. In some traditions especially in Rajasthan, the married women tie rakhis to their husbands to seek protection from all evil. These days even sisters tie rakhis to sisters. Nonetheless, the essence of the festival remains the same. 
+</font></p>
+<font size="6">Conclusion</font> <br>
+<p align="center"> 
+<font size="4" >
+The festival of Raksha Bandhan symbolizes the ideal of universal brotherhood and also immortalizes the Indian culture. This festival of Rakhi transcends the barriers of caste, creed and religion and is based on pious sentiments. 
+</font></p>
+<p align="center"><font size="5">Here is a lovely song created by Brothers for their sister on the occassion of Raksha Bandhan</p>
+<center>	<iframe width="560" height="315" src="https://www.youtube.com/embed/u2lQ7YG8cGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+</br>
+<marquee>New Contents and features coming soon!
+
+</body>
+</html>
